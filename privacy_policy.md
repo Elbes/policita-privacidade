@@ -6,7 +6,7 @@ Bem-vindo ao PEVS SLU! Esta Política de Privacidade explica como coletamos, usa
 
 ## 1. Dados Coletados
 
-Este aplicativo coleta informações da localização atula do usuário, para obter informações dos locais onde se encontram animais mortos.
+Este aplicativo coleta informações da localização atula do usuário (latitude e longitude), para obter informações dos locais onde se encontram animais mortos.
 Não coletamos dados sensíveis.
 
 ## 2. Contato
