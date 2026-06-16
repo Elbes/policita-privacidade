@@ -1,8 +1,8 @@
-# Política de Privacidade - PEVS SLU
+# Política de Privacidade - ASB Fiscalização
 
 **Última atualização: 05 de maio de 2025**
 
-Bem-vindo ao PEVS SLU! Esta Política de Privacidade explica como coletamos, usamos, armazenados e protegemos seus dados pessoais quando você utiliza nosso aplicativo. Ao usar o PEVS SLU, você concorda com as práticas descritas neste documento.
+Bem-vindo ao APP de Fisaclização do SLU - Aterro Sanitário! Esta Política de Privacidade explica como coletamos, usamos, armazenados e protegemos seus dados pessoais quando você utiliza nosso aplicativo. Ao usar o APP Fiscalização, você concorda com as práticas descritas neste documento.
 
 ## 1. Dados Coletados
 
